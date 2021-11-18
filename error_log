@@ -1,0 +1,19 @@
+[23-May-2020 20:23:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[23-May-2020 20:23:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[23-May-2020 20:23:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[23-May-2020 20:23:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[23-May-2020 20:23:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[23-May-2020 20:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[23-May-2020 20:23:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[23-May-2020 20:23:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[23-May-2020 20:23:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[23-May-2020 20:23:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[18-Nov-2021 18:05:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/e476c7ft/public_html/projetos/cadastro/conexao.php on line 7
+[18-Nov-2021 18:05:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/e476c7ft/public_html/projetos/cadastro/processa.php on line 9
+[18-Nov-2021 18:05:24 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/e476c7ft/public_html/projetos/cadastro/processa.php on line 11
+[18-Nov-2021 18:05:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/e476c7ft/public_html/projetos/cadastro/processa.php on line 13
+[18-Nov-2021 18:15:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/e476c7ft/public_html/projetos/cadastro/conexao.php on line 7
+[18-Nov-2021 18:15:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 7
+[18-Nov-2021 18:15:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 8
+[18-Nov-2021 18:15:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 44
+[18-Nov-2021 18:15:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/e476c7ft/public_html/projetos/cadastro/consultas.php on line 59
