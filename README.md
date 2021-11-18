@@ -4,4 +4,4 @@
 
 LINK
 
-https://editoracultura.com.br/projetos/cadastro/index.php
+https://editoracultura.com.br/projetos/cadastro
